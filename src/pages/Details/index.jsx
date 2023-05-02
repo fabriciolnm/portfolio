@@ -44,7 +44,7 @@ export function Details() {
           </div>
 
           <div className="image">
-            <img src="/public/static/images/profile.png" alt="image of Fabricio Morais" />
+            <img src="/static/images/profile.png" alt="image of Fabricio Morais" />
           </div>
           
           <h1>Hello, I'm</h1>
@@ -67,14 +67,14 @@ export function Details() {
         <h2>Projects</h2>
           <div className="cards">
           <Card
-            url="/public/static/images/a1.png"
+            url="/static/images/a1.png"
             title="Japanese Restaurant"
             description="japanese restaurant"
             github="https://github.com/moraisfabricio/namiesushi"
             livedemo="https://namiesushi.vercel.app/"
           />
           <Card
-            url="/public/static/images/a2.png"
+            url="/static/images/a2.png"
             title="Movies Website"
             description="movies website"
             github="https://github.com/moraisfabricio/megaflix"
