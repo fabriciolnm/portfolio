@@ -124,11 +124,11 @@ export const Container = styled.div`
         justify-content: center;
 
         > img {
-          width: 100px;
+          width: 120px;
           height: auto;
           z-index: 5;
           @media (min-width: 768px){
-            width: 140px;
+            width: 160px;
         }
         }
       }

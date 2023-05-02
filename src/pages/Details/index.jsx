@@ -44,7 +44,7 @@ export function Details() {
           </div>
 
           <div className="image">
-            <img src="/static/images/profile.png" alt="image of Fabricio Morais" />
+            <img src="/static/images/profile-pic.png" alt="image of Fabricio Morais" />
           </div>
           
           <h1>Hello, I'm</h1>
