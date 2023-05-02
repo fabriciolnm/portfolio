@@ -6,11 +6,11 @@ export const Container = styled.div`
     > nav {
       padding: 5px;
       position: fixed;
-      left: 50%;
       transform: translateX(-50%);
       bottom: 20px;
 
       display: flex;
+      left: 45%;
       z-index: 5;
 
       background: rgba(50, 50, 50, 0.3);
