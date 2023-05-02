@@ -67,14 +67,14 @@ export function Details() {
         <h2>Projects</h2>
           <div className="cards">
           <Card
-            url="/public/static/images/a1.png"
+            url="/images/a1.png"
             title="Japanese Restaurant"
             description="japanese restaurant"
             github="https://github.com/moraisfabricio/namiesushi"
             livedemo="https://namiesushi.vercel.app/"
           />
           <Card
-            url="/public/static/images/a2.png"
+            url="/images/a2.png"
             title="Movies Website"
             description="movies website"
             github="https://github.com/moraisfabricio/megaflix"
