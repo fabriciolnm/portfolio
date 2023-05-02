@@ -78,7 +78,7 @@ export function Details() {
             title="Movies Website"
             description="movies website"
             github="https://github.com/moraisfabricio/megaflix"
-            livedemo="https://megaflixmovies.app/"
+            livedemo="https://megaflixmovies.vercel.app/"
           />
           </div>
       </section>
