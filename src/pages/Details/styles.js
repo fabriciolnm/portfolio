@@ -12,7 +12,7 @@ export const Container = styled.div`
 
       display: flex;
       z-index: 5;
-      margin: 0 auto;
+      justify-content: center;
 
       background: rgba(50, 50, 50, 0.3);
       border-radius: 50px;
