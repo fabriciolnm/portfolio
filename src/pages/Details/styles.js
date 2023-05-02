@@ -12,7 +12,6 @@ export const Container = styled.div`
 
       display: flex;
       z-index: 5;
-      justify-content: center;
 
       background: rgba(50, 50, 50, 0.3);
       border-radius: 50px;
@@ -125,11 +124,11 @@ export const Container = styled.div`
         justify-content: center;
 
         > img {
-          width: 120px;
+          width: 100px;
           height: auto;
           z-index: 5;
           @media (min-width: 768px){
-            width: 160px;
+            width: 140px;
         }
         }
       }
