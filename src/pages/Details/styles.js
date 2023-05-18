@@ -10,7 +10,7 @@ export const Container = styled.div`
       bottom: 20px;
 
       display: flex;
-      left: 45%;
+      left: 50%;
       z-index: 5;
 
       background: rgba(50, 50, 50, 0.3);
