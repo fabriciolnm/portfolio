@@ -51,7 +51,7 @@ export function Contact(){
                     <a href='https://www.linkedin.com/in/fabriciolnm' target='blank'>
                         <AiOutlineLinkedin/>
                     </a>
-                    <a href='https://github.com/moraisfabricio' target='blank'>
+                    <a href='https://github.com/fabriciolnm' target='blank'>
                         <AiOutlineGithub/>
                     </a>
                     <h5>Rights reserved - 2023 - Fabricio Morais</h5>

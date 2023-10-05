@@ -7,7 +7,6 @@ export const Container = styled.div`
     align-items: center;
     gap: 10px;
     margin: 10px auto;
-    
 
     background: ${({ theme }) => theme.COLORS.BACKGROUND_CARD};
     border-radius: 20px;

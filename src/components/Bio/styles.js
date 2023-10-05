@@ -19,7 +19,6 @@ export const Container = styled.div`
           width: 500px;
       }
 
-
       > h3 {
         font-size: 16px;
 
@@ -32,6 +31,8 @@ export const Container = styled.div`
         row-gap: 30px;
         margin-top: 40px;
         margin-left: 20px;
+        overflow: hidden;
+
 
         > li {
           display: flex;

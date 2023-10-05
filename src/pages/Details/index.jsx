@@ -38,7 +38,7 @@ export function Details() {
             <a href="https://www.linkedin.com/in/fabriciolnm" target="blank">
               <AiOutlineLinkedin />
             </a>
-            <a href="https://github.com/moraisfabricio" target="blank">
+            <a href="https://github.com/fabriciolnm" target="blank">
               <AiOutlineGithub />
             </a>
           </div>
@@ -70,15 +70,22 @@ export function Details() {
             url="/static/images/a1.png"
             title="Japanese Restaurant"
             description="japanese restaurant"
-            github="https://github.com/moraisfabricio/namiesushi"
+            github="https://github.com/fabriciolnm/namiesushi"
             livedemo="https://namiesushi.vercel.app/"
           />
           <Card
             url="/static/images/a2.png"
             title="Movies Website"
             description="movies website"
-            github="https://github.com/moraisfabricio/megaflix"
+            github="https://github.com/fabriciolnm/megaflix"
             livedemo="https://megaflixmovies.vercel.app/"
+          />
+          <Card
+            url="/static/images/a3.png"
+            title="Little Lemon"
+            description="restaurant website"
+            github="https://github.com/fabriciolnm/little-lemon"
+            livedemo="https://little-lemon-pearl.vercel.app/"
           />
           </div>
       </section>

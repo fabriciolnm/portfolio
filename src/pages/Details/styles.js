@@ -145,7 +145,6 @@ export const Container = styled.div`
 
   // PROJECTS //
   > .projects {
-    height: 120vh;
     padding-top: 10px;
     > .cards{
       display: flex;
